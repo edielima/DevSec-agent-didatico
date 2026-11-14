@@ -2,6 +2,8 @@
 
 **Especialização de agente que, em vez de responder direto, entende o contexto, avalia impacto, probabilidade e severidade e orienta a correção.**
 
+Com base no agente DIO-Agent https://github.com/digitalinnovationone/dio-agent
+
 Especialização introduz:
 
 1. Uma skill nova **vulnerability-analysis**, com o **SKILL.md** que o agente segue e um **README.md**;
