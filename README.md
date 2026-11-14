@@ -4,6 +4,8 @@
 
 Com base no agente DIO-Agent https://github.com/digitalinnovationone/dio-agent
 
+profa. https://github.com/IsadoraFerrao
+
 Especialização introduz:
 
 1. Uma skill nova **vulnerability-analysis**, com o **SKILL.md** que o agente segue e um **README.md**;
